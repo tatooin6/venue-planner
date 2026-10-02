@@ -9,6 +9,7 @@ Technical spike and deployment-first walking skeleton for a future application t
 - React Konva for the interactive canvas
 - Supabase Auth and Postgres Data API, behind `LayoutRepository`
 - jsPDF and qrcode, entirely client-side
+- Konva
 
 ## Requirements
 
